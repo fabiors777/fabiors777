@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Fábio Ribeiro
 
 - 🔭 Atualmente trabalho na Biofílica Ambipar Environment como coordenador de geoprocessamento
-- 🌱 Sou geógrafo, mestre em análise ambiental e atualmente me formando como tecnólogo em Big Data e Inteligência Analítica
+- 🌱 Sou geógrafo, mestre em análise ambiental desde 2010 e em 2022 formado como tecnólogo em Big Data e Inteligência Analítica
 - 👯 Estou procurando colaborar com análise de dados, geoprocessamento, geolocalização de dados, machine learning, deep learning e análise e visualização de dados.
 - 👀 Tenho muito interesse em visão computacional, redes convolucionais e automação de processos de análises ambientais. 
 
