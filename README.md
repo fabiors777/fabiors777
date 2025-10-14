@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Fábio Ribeiro
 
-- 🔭 Atualmente trabalho na Biofílica Ambipar Environment como coordenador de geoprocessamento
-- 🌱 Sou geógrafo, mestre em análise ambiental desde 2010 e em 2022 formado como tecnólogo em Big Data e Inteligência Analítica
+- 🔭 Atualmente trabalho na Ambipar Brazil como Gerente de Geotecnologia e Inovação
+- 🌱 Sou geógrafo, mestre em análise ambiental desde 2010 e em 2022 formado como tecnólogo em Big Data e Inteligência Analítica com especialização em Inteligência Artificial
 - 👯 Estou procurando colaborar com análise de dados, geoprocessamento, geolocalização de dados, machine learning, deep learning e análise e visualização de dados.
-- 👀 Tenho muito interesse em visão computacional, redes convolucionais e automação de processos de análises ambientais. 
+- 👀 Tenho muito interesse em visão computacional, redes convolucionais, automação de processos de análise ambiental e construção de agentes de IA. 
 
 <div>
   <a href="https://www.linkedin.com/in/fabio-ribeiro-de-souza-60007710/">
