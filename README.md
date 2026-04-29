@@ -12,16 +12,18 @@
 </div>
 
   ##
-  
-<div style = "display: inline_block"><br>
-  <img align="center" alt="fabiopy" height="50" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="fabioconda" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-  <img align="center" alt="fabiojupyter" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="fabiopycharm" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-  <img align="center" alt="fabiopostgis" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="fabiomongodb" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-  <img align="center" alt="fabiotensor" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />       
-</div>
+
+<table align="center">
+  <tr>
+    <td><img align="center" alt="fabiopy" height="50" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></td>
+    <td><img align="center" alt="fabioconda" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"></td>
+    <td><img align="center" alt="fabiojupyter" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"></td>
+    <td><img align="center" alt="fabiopycharm" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"></td>
+    <td><img align="center" alt="fabiopostgis" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></td>
+    <td><img align="center" alt="fabiomongodb" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"></td>
+    <td><img align="center" alt="fabiotensor" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></td>
+  </tr>  
+</table>
   
   ##
   
